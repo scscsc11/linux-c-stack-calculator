@@ -1,0 +1,5 @@
+/main
+/main_ubsan
+*.o
+*.d
+*.bak
